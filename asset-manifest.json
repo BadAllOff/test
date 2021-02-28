@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BadAllOff/test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/BadAllOff/test/static/js/main.a6dfc33f.chunk.js",
+    "main.js.map": "/BadAllOff/test/static/js/main.a6dfc33f.chunk.js.map",
+    "runtime-main.js": "/BadAllOff/test/static/js/runtime-main.321f6fb7.js",
+    "runtime-main.js.map": "/BadAllOff/test/static/js/runtime-main.321f6fb7.js.map",
+    "static/js/2.7296e125.chunk.js": "/BadAllOff/test/static/js/2.7296e125.chunk.js",
+    "static/js/2.7296e125.chunk.js.map": "/BadAllOff/test/static/js/2.7296e125.chunk.js.map",
+    "static/js/3.f9ba8d5f.chunk.js": "/BadAllOff/test/static/js/3.f9ba8d5f.chunk.js",
+    "static/js/3.f9ba8d5f.chunk.js.map": "/BadAllOff/test/static/js/3.f9ba8d5f.chunk.js.map",
+    "index.html": "/BadAllOff/test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/BadAllOff/test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7296e125.chunk.js.LICENSE.txt": "/BadAllOff/test/static/js/2.7296e125.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BadAllOff/test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.321f6fb7.js",
+    "static/js/2.7296e125.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a6dfc33f.chunk.js"
+  ]
+}
